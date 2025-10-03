@@ -4,7 +4,7 @@ subtitle: "SDS 192"
 author: 
 - name: Kiersten Conley
   affiliation: Smith College
-- name: Author Two
+- name: Khadija Teffahi
   affiliation: Smith College
 - name: Author Three
   affiliation: Smith College
